@@ -1,5 +1,5 @@
 # NWxSW Gitub Tutorial
-CHANGE!!!
+Joanna's changes sorta
 
 ## Goal:
 - Discuss: what is Git/GitHub and why I use it?
